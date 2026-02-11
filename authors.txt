@@ -1,6 +1,3 @@
 Fabien Rozar
-<<<<<<< HEAD
 Comorassamy Thomas
-=======
 Thibault Chaumont
->>>>>>> 84e988f (Thibault-Chaumont)
